@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a Front End Developer using ⚛
+- 🔭 I’m currently working as a Mobile Developer using ⚛
 - 🌱 I’m currently learning Animations, Flutter, and How can I be more productive
 - 📫 How to reach me: 📧 rendysetiady8@gmail.com
 
